@@ -1,6 +1,7 @@
 from netmiko import ConnectHandler
 import csv
 import re
+import sys
 # router1={
 #         "device_type" : "cisco_ios",
 #         "ip" : "192.168.122.101",
